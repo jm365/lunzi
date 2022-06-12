@@ -1,0 +1,88 @@
+ffmpeg -i https://v.baoshiyun.com/resource/media-846373535055872/lud/8eecad15b3a64de587cdf63616bb6cc7.m3u8?MtsHlsUriToken=0523fe5f41de475c8631a7de00eadc19c251e886e6964df4aab6252456fc2348 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\1、开班典礼\1、开班典礼/开班典礼--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846466547417088/lud/b8f24af023674a71914aa0663fb7a03d.m3u8?MtsHlsUriToken=62f734bf3b8e415db21257400b026c120ed6c99631cd4fa68050636c814ebbd9 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\2、线性表基础\1、1-1 链表（List）及经典问题/1-1 链表（List）及经典问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846466628091904/lud/a208693acf784c7f903d5e7e18d78e69.m3u8?MtsHlsUriToken=852c1ec4f6e5436895c40a6e87c7c55068823e6fafb94e21b7ab1eb6bb67361a -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\2、线性表基础\2、1-2 线程池与任务队列（Task-Queue）/1-2 线程池与任务队列（Task-Queue）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846466676817920/lud/dd2c8f5f1cca48639e0a0625771bd7e0.m3u8?MtsHlsUriToken=9e3af63962c14c82a4e5642a01aa9e2f58e189d6132a429aa19c3686915367c3 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\2、线性表基础\3、1-3 递归与栈（Stack）：解决表达式求值/1-3 递归与栈（Stack）：解决表达式求值--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846466740846592/lud/5f8f035029f2454eb30bee43ab30ee00.m3u8?MtsHlsUriToken=bd92f6352c6840c8b65ec981e0f4828002882a55ee894d62921fbe8c30b2f4dc -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\3、树结构基础\1、2-1 二叉树（Binary-Tree）与经典问题/2-1 二叉树（Binary-Tree）与经典问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846962546376704/lud/f019aecf479e4f07ace6884841d5a2b4.m3u8?MtsHlsUriToken=a7476109147a425d96a352826b17684b646b2dd026bc45518faf24724d716b16 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\3、树结构基础\2、2-2 堆（Heap）与优先队列/2-2 堆（Heap）与优先队列--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846962586222592/lud/21535044a0c749a89ae11c5fe60c1052.m3u8?MtsHlsUriToken=a53591765f4145d3a82848b288d54c8f20b9b0d715334c12b850257d253d570c -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\3、树结构基础\3、2-3 并查集（Union-find）及经典问题/2-3 并查集（Union-find）及经典问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846962648645632/lud/61252f5418784c218958f1bf2fa2bdec.m3u8?MtsHlsUriToken=5c2a44fc969c474abc5e4783ae37fcc786f908e7ea504fcb97019244d5b91edb -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\4、排序算法\1、20210506--3-1 快速排序（Quick-Sort）及优化/3-1 快速排序（Quick-Sort）及优化--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846962713067520/lud/159aca53b0d744b8aec16a024c2e5f8e.m3u8?MtsHlsUriToken=e4a8b56ba48746faab5242354b9af1e6ae8767742c754cadbc683871bc0d47b9 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\4、排序算法\2、20210513--3-2 归并排序（Merge-Sort）：从二路到多路/3-2 归并排序（Merge-Sort）：从二路到多路--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-846962799640576/lud/54c1d6d6e99d43c69ec2c1f63878f3ec.m3u8?MtsHlsUriToken=0e4f4e18798d4912bb41d4c49dc88190deb7762472694a22a81678ca7948f273 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\4、排序算法\3、2021.05.20 3-3 算法系列（Algorithm算法杂谈）：有趣的排序思想/3-3算法系列(Algorithm算法杂谈):有趣的排序思想--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-850085320491008/lud/a2ee261ba6c34a16a7dec69ed41c5eed.m3u8?MtsHlsUriToken=7021e54b9ecf4ef589b8d57fff64392523eee435b78246bca066b7762d0f570c -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\5、查找与搜索\1、2021.06.03 4-1二分算法（Binary-Search）：致敬经典，超越经典/二分算法（Binary-Search）：致敬经典，超越经典--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-850085724160000/lud/a201b81f61cc479391845e796909f3ac.m3u8?MtsHlsUriToken=9a6dcf5dfe9c4958930971e2fe5a4faffaa131ccb7804d158cd93925352d3ad6 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\5、查找与搜索\2、2021.06.10 4-2 哈希表与布隆过滤器/哈希表与布隆过滤器--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-850085767151616/lud/11a8f0ea27364ad78a40cd04758cc850.m3u8?MtsHlsUriToken=aec9da9daa5e46c0ab4bc89a9b01a1f2df36c1fdf18e4ff997eec1406d8a6c3e -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\5、查找与搜索\3、2021.06.17 4-3深搜（DFS）与广搜（BFS）：初识问题状态空间/深搜（DFS）与广搜（BFS）：初识问题状态空间--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-851989633630208/lud/fe0188ab050f4d558e8c424f0a7b8c4d.m3u8?MtsHlsUriToken=a45ad0c1f5454518b35281bd635802177ac63ae9694f46f3a4243d863cede769 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\6、单调栈与单调队列\1、2021.07.01 5-1 单调队列（Monotone-Queue）及经典问题/2021.07.01 5-1 单调队列及经典问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-852302984249344/lud/73f6540a13314ada850528a7c948e7fe.m3u8?MtsHlsUriToken=b296ab848fc247068c6997cca75c7339887f1074d7eb4e3e89073de1dcdbc796 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\6、单调栈与单调队列\2、2021.07.15 5-2 单调栈（Monotone-Stack）及经典问题/5-2 单调栈（Monotone-Stack）及经典问题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853254975389696/lud/018661d560374774a1dfb26691335446.m3u8?MtsHlsUriToken=6676586da6ad47a88d0c7fd9c01444118a77ba6f674f49fea875d13dceb9454f -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\6、单调栈与单调队列\3、2021.07.29 5-3专项面试题解析/2021.07.29 专项面试题解析--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853659729494016/lud/c3162627463d43ecb69a436a151975bd.m3u8?MtsHlsUriToken=2f911306eb694ffe98caabe989ac08c109056eb2fa784f5b8746afa8ad878605 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\7、手撕平衡二叉树排序树\1、2021.08.06 6-1手撕 AVL 树/2021.08.06 6-1手撕 AVL 树--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-853978626031616/lud/2a5219a52171474993c1c53236e88596.m3u8?MtsHlsUriToken=8109c4efd01f49c6bf8259977a9fee4edbf2b2f04531492a82252c03e976eb76 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\7、手撕平衡二叉树排序树\2、2021.08.13 6-2 手撕红黑树（上）-插入调整/2021.08.13 6-2 手撕红黑树（上）-插入调整--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854616385126400/lud/8f1b0082f11a46e09c59c1152280fc33.m3u8?MtsHlsUriToken=da102632577c42f4914f1195e3aacf8f268f9b5a70544e3ca5cbe331db6b3c34 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\7、手撕平衡二叉树排序树\3、2021.08.27 6-3 手撕红黑树（下）-删除调整/2021.08.27 6-3 手撕红黑树（下）-删除调整--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-854929959256064/lud/0b3ebb15f2f94b9e876506a3ffd42bda.m3u8?MtsHlsUriToken=b0c3d44106754a7fbef0f289d034f0d017e907269722445f88717194632663ac -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\8、从递推算法到动态规划\1、2021.09.03 7-1 递推算法及解题套路/2021.09.03 7-1 递推算法及解题套路--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855247581315072/lud/5f2fabbee7a741f2ab8cde4b6ab47d93.m3u8?MtsHlsUriToken=7b73023fb1db4e7fb1adeb9579789a667f7b255e94d5493c9953e615f2fd9819 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\8、从递推算法到动态规划\2、2021.09.10 7-2 动态规划算法/2021.09.10 7-2 动态规划算法--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-855569141202944/lud/c05ce986d40f420a8d1e6e9214715332.m3u8?MtsHlsUriToken=6cb51f09a9e6427daa34bb21f399cc66c4300bf5941d4ee4a036befd7fe9b426 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\8、从递推算法到动态规划\3、2021.09.17 7-3 动态规划算法优化/2021.09.17 7-3 动态规划算法优化--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856510735810560/lud/7e9fbd2b776841d484ed8649623ea46c.m3u8?MtsHlsUriToken=27ef613b96784a11bdb4f660f2cf82fcd5bfc8a1df024e3ca1e187ddf71a87d3 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\9、字符串匹配问题\1、2021.10.08 8-1 经典匹配算法/经典匹配算法：KMP、Sunday 与 Shift-[And--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-856837779226624/lud/cdaf3943844b4c939efa1955bcfff5f7.m3u8?MtsHlsUriToken=d6d37e1236fd4382b572f07e193b1dcb57160777520a4cd1b3b91b64b0927fa9 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\9、字符串匹配问题\2、2021.10.15 字符串匹配问题——算法刷题/2021.10.15 字符串匹配问题——算法刷题--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857150028939264/lud/405c39db229443ab88ae13b8f44dccc2.m3u8?MtsHlsUriToken=bb910edda0d84ec69e78ca68169f7844e9daaefdc2714b7e980fec5c1785959a -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\9、字符串匹配问题\3、2021.10.22 字典树（Trie）与双数组字典树（Double-Array-Trie）/字典树Trie双数组字典树Double-Array-Trie--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-857784238702592/lud/fdc2f65c9aed4a70ba5e50242c42ee9f.m3u8?MtsHlsUriToken=a7e4b8ecdfa3499c86f35e6a8f34f18a3b2a727330f44c02a6457e7553dd2875 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\10、算法杂谈系列月\1、2021.11.05 哈弗曼编码（Halfman-Coding）与二叉字典树/哈弗曼编码（Halfman-Coding）与二叉字典树--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858104475320320/lud/2495d2a78c29405b9800fbaefee77d5e.m3u8?MtsHlsUriToken=e9ccdc534ec1479cb27b71d2d6bd20ef6a744ed03da14f8a96b50f5a30414fd0 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\10、算法杂谈系列月\2、2021.11.12 从前缀到和树状数组（Binary-Indexed-Tree）/2021.11.12 从前缀到和树状数组--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-858418278531072/lud/e10f34b496b14eab8ab169786fd2eda9.m3u8?MtsHlsUriToken=27e13559c7e54f109c178cefd391984fe1aed9d60faf4e069c26db186e2d2094 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\10、算法杂谈系列月\3、2021.12.03一个公式引发的算法学习惨案/2021.12.03  一个公式引发的算法学习惨案--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860921570230272/lud/e5682b1b644b41c39c0c11fbdcf903ac.m3u8?MtsHlsUriToken=9cb1337aafa44c6188819e8f7dcf335c09d0b96c19474d7690342c0bd4ab2dff -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\10、算法杂谈系列月\4、2021.12.10 有趣的莫比乌斯反演（Möbius inversion）/有趣的莫比乌斯反演（Möbius inversion）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859374082719744/lud/4cc58bd97aee4970a1fe33487ca88e45.m3u8?MtsHlsUriToken=85090748b5b34955a58099c82d41bb24161b54b7797a4726abb69d82cfe74c3f -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\11、金融系统中的 RSA 算法\1、本节课已挪至上一章节/2021.12.10 有趣的莫比乌斯反演（Möbius in--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-859686956826624/lud/7d541249186b4be19ca4ce676dc78a65.m3u8?MtsHlsUriToken=482c4a808a584681a638048d4fa787f607091dd37a244ae8b8c8bca3bda8003e -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\11、金融系统中的 RSA 算法\2、2022.01.07金融系统中的 RSA 算法（一）/金融系统中的 RSA 算法（一）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860229847646208/lud/ad1f089bec6748ff836bba9cbbf4da98.m3u8?MtsHlsUriToken=5dea72d07d304e9d8b49f23c5da155b411f9cce3b75a4c5cb9e4ab5a834e1a4c -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\11、金融系统中的 RSA 算法\3、金融系统中的 RSA 算法（二）/金融系统中的 RSA 算法（二）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-860229880643584/lud/5cd5165b8f164201ad978ee2001b6a6a.m3u8?MtsHlsUriToken=72c18c484e0c413881d478e640f73e456d2e063ac4be4700869b603dd36b0f95 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\11、金融系统中的 RSA 算法\4、【门徒年终盛典】金融系统中的 RSA 算法（三）/【门徒年终盛典】金融系统中的 RSA 算法（三）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-864126282629120/lud/92d2420afe604f0fb4d45ea50e2e4e8f.m3u8?MtsHlsUriToken=91d123cc8a5840488e48c68c81da9275411508c5a0414cf38b6eaa2afa313a7e -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\12、状态机模型与语言解释器\1、状态机模型与语言解释器（一）/状态机模型与语言解释器（一）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-865349410979840/lud/3c060d623319479ca6451c901160a91f.m3u8?MtsHlsUriToken=f218e63d8fbb4b9f99c93e2cf7a9837fb08525004f2b49f086a3d33deb2e2084 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\12、状态机模型与语言解释器\2、【补题课第一讲】/状态机模型与语言解释器（二）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-865349456527360/lud/38411dae7b434ea49ff95a9787a3e319.m3u8?MtsHlsUriToken=d0f339dbbb11461fbe406b769cdcab212be9d1eb7c5344efbcadfd1e56292a00 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\12、状态机模型与语言解释器\3、【补题课第二讲】/状态机模型与语言解释器（三）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-866929423024128/lud/bae15c28875f4c6693e5be2500b87eed.m3u8?MtsHlsUriToken=1d2186843f0e4e7989591cc22957d6858e0ecd25da0c46b2a1df81209145f66d -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\12、状态机模型与语言解释器\4、新-状态机模型与语言解释器（二）/新-状态机模型与语言解释器（二）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-863169347485696/lud/a5e9d2290ba7458dba450756569cc46c.m3u8?MtsHlsUriToken=fc2aac59659a451d813ad0a2d0008e63989d1d18ba9e4fdb935c66110bde76d2 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\13、傅里叶变换与信息隐写术\1、傅里叶变换与信息隐写术（一）/傅里叶变换与信息隐写术（一）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-863169441398784/lud/03cb668e356b4f11b20bf229b4edaa20.m3u8?MtsHlsUriToken=2694bfe9f2754232a447ed0e159fde8fade9fc56cc4745a58780f15de7439de6 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\13、傅里叶变换与信息隐写术\2、傅里叶变换与信息隐写术（二）/傅里叶变换与信息隐写术（二）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-863169476952064/lud/5dea5a0e6a6443bea237783efb069478.m3u8?MtsHlsUriToken=65369b315eb440a8a10696743c3b6b683426d443e22445b7bc12bd7e9c122bce -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\13、傅里叶变换与信息隐写术\3、傅里叶变换与信息隐写术（三）/傅里叶变换与信息隐写术（三）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-862352223633408/lud/c3c94712766843d0b296eca8989e96a0.m3u8?MtsHlsUriToken=3341e96c73d5499a99a3b0852268ae1340d63594da1f4e95b2bdc0c76e4439da -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\14、算法刷题\1、算法刷题（一）/算法刷题（一）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-862414052982784/lud/0792201309454b37b4b57ea9fe6fb9ea.m3u8?MtsHlsUriToken=1a954cef49684d9289f4892eeab04a4fd00e3ca228274c9782151f97d6c902e4 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\14、算法刷题\2、算法刷题（二）/算法刷题（二）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-862414080212992/lud/5e5ff5b302944ada9fef6f56e6873b3c.m3u8?MtsHlsUriToken=98708b89405c4d31a36f97e1b3955a5afe1f03d43ee94963a964a120263549f2 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\14、算法刷题\3、算法刷题（三）/算法刷题（三）--01.mp4"
+
+ffmpeg -i https://v.baoshiyun.com/resource/media-866624065634304/lud/05b214bb2d3b47c0accb4b23cf2ad895.m3u8?MtsHlsUriToken=fee2be3fea9541e8885c16ca169b6da8fa570bbc93194f629a3347bb6ef66381 -c copy -bsf:a aac_adtstoasc "F:\工作\项目\download\code\lunzi\ffmpeg\video\15、补题课\1、【补题课第三讲】/【补题课第三讲】--01.mp4"
+

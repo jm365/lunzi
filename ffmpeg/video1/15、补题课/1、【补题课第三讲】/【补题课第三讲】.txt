@@ -1,0 +1,2 @@
+ffmpeg -i https://v.baoshiyun.com/resource/media-866624065634304/lud/05b214bb2d3b47c0accb4b23cf2ad895.m3u8?MtsHlsUriToken=fee2be3fea9541e8885c16ca169b6da8fa570bbc93194f629a3347bb6ef66381 -c copy -bsf:a aac_adtstoasc ./【补题课第三讲】--01.mp4
+
